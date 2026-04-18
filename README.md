@@ -1,7 +1,7 @@
 # 2026-1-SafeStreets
-## 🛡️ SafeNight — Monitor de Segurança Urbana
+## 🛡️ SafeStreets — Monitor de Segurança Urbana
 
-O SafeNight é uma aplicação voltada ao monitoramento inteligente de riscos urbanos a partir da análise de notícias e dados públicos de segurança. O projeto tem como objetivo fornecer uma visão clara e atualizada sobre ocorrências criminais em diferentes regiões, contribuindo para a conscientização e prevenção.
+O SafeStreets é uma aplicação voltada ao monitoramento inteligente de riscos urbanos a partir da análise de notícias e dados públicos de segurança. O projeto tem como objetivo fornecer uma visão clara e atualizada sobre ocorrências criminais em diferentes regiões, contribuindo para a conscientização e prevenção.
 
 A proposta combina coleta de dados em tempo real com técnicas de inteligência artificial para identificar padrões, classificar tipos de crimes e estimar sua localização aproximada. Com isso, o sistema gera indicadores que permitem acompanhar a evolução da criminalidade em bairros e cidades.
 
