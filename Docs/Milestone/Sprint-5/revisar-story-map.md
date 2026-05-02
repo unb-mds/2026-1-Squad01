@@ -21,3 +21,4 @@ Além disso, busca-se preparar o Story Map para futuras implementações, facili
 O Story Map é uma ferramenta essencial para visualizar o produto de forma estratégica, ajudando a equipe a entender o fluxo completo do usuário e a definir entregas incrementais.  
 
 ## Story Map com Revisões (sujeito a alterações)!
+<img width="1770" height="740" alt="image" src="https://github.com/user-attachments/assets/fbf18db0-6e78-4912-8910-f7b0c27259f8" />
