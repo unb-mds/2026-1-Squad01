@@ -2,10 +2,6 @@
 
 _Apagar_: 
 > A **📋 Descrição** deve esclarecer o objetivo da issue e explicar ela.
-- Prefixos: Todo titulo deve conter pelo menos um desses:
-   - **[DOCS]** (documentação)
-   - **[FEAT]** (funcionalidade do projeto)
-   - **[BUG]** (problema no código)
 
 ## ✅ Tarefas _(Opcional para documentação e estudos)_
 
