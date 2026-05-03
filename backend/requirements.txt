@@ -2,3 +2,6 @@ fastapi[all]
 uvicorn[standard]
 httpx
 pytest
+#parte de banco de dados
+sqlalchemy
+psycopg2-binary

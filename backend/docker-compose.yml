@@ -1,0 +1,26 @@
+# versao docker-compose
+version: '3.8'
+
+services:
+  # Contêiner 1: Banco de Dados
+  db:
+    # Versao do postgres utilizada
+    image: postgres:15-alpine
+    container_name: safestreets_db
+    environment:
+      POSTGRES_USER: admin
+      POSTGRES_PASSWORD: 123
+      POSTGRES_DB: safestreets
+    ports:
+    # porta padrao do postgres
+      - "5432:5432"
+    volumes:
+      #onde o volume docker sera armazenado e onde o postgres armazena os dados (pasta invisivel no seu pc)
+      - postgres_data:/var/lib/postgresql/data
+
+    # Contêiner 2: ...
+
+
+#criacao do volume para o banco de dados
+volumes:
+  postgres_data:
